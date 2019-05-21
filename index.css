@@ -220,6 +220,15 @@ body{
     margin:1.5vh 0px;
 }
 
+#profile a {
+    color:white;
+    text-decoration: none;
+}
+
+#profile a:hover {
+    text-decoration: underline;
+}
+
 #username {
     font-size:18px;
     font-weight:bold;
